@@ -4151,7 +4151,7 @@ int main() {
     while( !quit ) {
         
         
-        apocalypseStep();
+        // apocalypseStep();
 
         checkBackup();
 
